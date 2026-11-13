@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "build": 19,
+  "url": "https://github.com/wetadeveloper/mutlu-turizm-yonetim-downloads/releases/download/windows-v1.0.1-test.19/MutluTurizm-Yonetim-Setup.exe",
+  "sha256": "c40ef50f1861e2cf042c6c4363f4ab46fc37735b0f05b0ebd936ef48d1ae19c4",
+  "size": 20505363,
+  "android": {
+    "version": "1.0.1",
+    "build": 19,
+    "url": "https://play.google.com/store/apps/details?id=com.mutluturizm.admin"
+  },
+  "ios": {
+    "version": "1.0.1",
+    "build": 1,
+    "url": "https://testflight.apple.com/join/xT6YHYf9"
+  }
+}
