@@ -6,12 +6,14 @@
   "size": 20505363,
   "android": {
     "version": "1.0.1",
-    "build": 19,
-    "url": "https://play.google.com/store/apps/details?id=com.mutluturizm.admin"
+    "build": 22,
+    "url": "https://play.google.com/store/apps/details?id=com.mutluturizm.admin",
+    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
   },
   "ios": {
     "version": "1.0.1",
-    "build": 1,
-    "url": "https://testflight.apple.com/join/xT6YHYf9"
+    "build": 4,
+    "url": "https://testflight.apple.com/join/xT6YHYf9",
+    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
   }
 }
